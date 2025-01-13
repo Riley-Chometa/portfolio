@@ -2,6 +2,8 @@
 
 A personal e-portfolio built using Next.js, React, and Tailwind CSS.
 
+You can view it at [chometa.me](https://chometa.me)
+
 ## Overview
 
 This project showcases my skills and experience as a software developer. It features a responsive design, interactive components, and a clean user interface.
