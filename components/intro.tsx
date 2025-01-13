@@ -29,7 +29,7 @@ export default function Intro() {
                     }}
                 >
                     <Image 
-                        src="/pfp.jpg" 
+                        src="/pfp.png" 
                         alt="Riley Portrait" 
                         width="192" 
                         height="192"
