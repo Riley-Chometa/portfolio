@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "Graduated from Saskatchewan Polytechnic",
     location: "Saskatoon, SK, Canada",
     description:
-      "I graduated after 2 years of studying. I immediately found a job as a Student Research Assistant at Saskatchewan Polytechnic - Digital Integration Center of Excellence.",
+      "I graduated with a diploma in Computer Systems Technology after 2 years of studying, preparing me as a developer and training me in IT as well. I immediately found a job as a Student Research Assistant at Saskatchewan Polytechnic - Digital Integration Center of Excellence.",
     icon: React.createElement(LuGraduationCap),
     date: "2021",
   },
@@ -57,6 +57,14 @@ export const experiencesData = [
       "At the same time, I worked as a Student Research Assistant for over 3 years doing research and development of different web apps and research projects based on the needs of our clients.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2025",
+  },
+  {
+    title: "Graduated from the University of Saskatchewan",
+    location: "Saskatoon, SK, Canada",
+    description:
+      "I graduated with a degree in Computer Science after 3 more years of studying. I immediately went full time at DICE and took up volunteer work at the non-profit I previously did work for that turned into contract work once they got a grant approved.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2024",
   },
   {
     title: "Lead Contract Developer",
