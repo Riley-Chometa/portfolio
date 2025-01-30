@@ -67,7 +67,7 @@ export const experiencesData = [
     date: "2024",
   },
   {
-    title: "Lead Contract Developer",
+    title: "Volunteer Developer",
     location: "Saskatoon, SK, Canada",
     description:
       "I was re-engaged by the non-profit to lead a team of junior developers recruited through a job posting. Upon my return, I discovered that the application had been taken offline due to a large-scale cyber security attack on Microsoft Azure. Despite the previous team's efforts, they were unable to restore the application. I successfully recovered the application and restored its functionality within two weeks. Since then, I have been enhancing the application with additional features and improvements while mentoring junior developers and conducting code reviews.",
