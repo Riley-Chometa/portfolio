@@ -43,18 +43,18 @@ export const experiencesData = [
     date: "2021",
   },
   {
-    title: "Contract developer",
-    location: "Saskatoon, SK, Canada",
+    title: "Contract Software Engineer",
+    location: "Saskatoon, SK, Canada (Remote)",
     description:
       "I got immediately contracted by a local non-profit along with a few other students to convert their native android application into a progressive web app and add additional features on, which we completed within 7 months. I then left after deploying the application to focus on my continued studies at the University of Saskatchewan.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2022",
   },
   {
-    title: "Student Research Assistant",
-    location: "Saskatoon, SK, Canada",
+    title: "Software Engineer, Research Assistant",
+    location: "Saskatoon, SK, Canada (Remote)",
     description:
-      "At the same time, I worked as a Student Research Assistant for over 3 years doing research and development of different web apps and research projects based on the needs of our clients.",
+      "At the same time, I worked as a Software Engineer and Research Assistant for over 3 years doing research and development of various startups and research projects based on the needs of our clients.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2025",
   },
@@ -67,8 +67,8 @@ export const experiencesData = [
     date: "2024",
   },
   {
-    title: "Volunteer Developer",
-    location: "Saskatoon, SK, Canada",
+    title: "Volunteer Software Engineer",
+    location: "Saskatoon, SK, Canada (Remote)",
     description:
       "I was re-engaged by the non-profit to lead a team of junior developers recruited through a job posting. Upon my return, I discovered that the application had been taken offline due to a large-scale cyber security attack on Microsoft Azure. Despite the previous team's efforts, they were unable to restore the application. I successfully recovered the application and restored its functionality within two weeks. Since then, I have been enhancing the application with additional features and improvements while mentoring junior developers and conducting code reviews.",
     icon: React.createElement(CgWorkAlt),
