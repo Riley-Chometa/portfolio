@@ -43,7 +43,7 @@ export const experiencesData = [
     date: "2021",
   },
   {
-    title: "Contract Software Engineer",
+    title: "Freelance Software Engineer",
     location: "Saskatoon, SK, Canada (Remote)",
     description:
       "I got immediately contracted by a local non-profit along with a few other students to convert their native android application into a progressive web app and add additional features on, which we completed within 7 months. I then left after deploying the application to focus on my continued studies at the University of Saskatchewan.",
@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Software Engineer, Research Assistant",
     location: "Saskatoon, SK, Canada (Remote)",
     description:
-      "At the same time, I worked as a Software Engineer and Research Assistant for over 3 years doing research and development of various startups and research projects based on the needs of our clients.",
+      "At the same time, I worked as a Software Engineer and Research Assistant for over 3 years, engineering solutions for startups, and development of research projects that include creation of machine learning content for Surge Microcredentials C2R2 courses.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2025",
   },
