@@ -43,7 +43,7 @@ export const experiencesData = [
     date: "2021",
   },
   {
-    title: "Contract Software Engineer",
+    title: "Freelance Software Engineer",
     location: "Saskatoon, SK, Canada (Remote)",
     description:
       "I got immediately contracted by a local non-profit along with a few other students to convert their native android application into a progressive web app and add additional features on, which we completed within 7 months. I then left after deploying the application to focus on my continued studies at the University of Saskatchewan.",
