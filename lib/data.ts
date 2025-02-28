@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Software Engineer, Research Assistant",
     location: "Saskatoon, SK, Canada (Remote)",
     description:
-      "At the same time, I worked as a Software Engineer and Research Assistant for over 3 years doing research and development of various startups and research projects based on the needs of our clients.",
+      "At the same time, I worked as a Software Engineer and Research Assistant for over 3 years, engineering solutions for startups, and development of research projects that include creation of machine learning content for Surge Microcredentials C2R2 courses.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - 2025",
   },
