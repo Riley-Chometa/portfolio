@@ -22,7 +22,7 @@ export default function About() {
         </p>
 
         <p>
-          In my free time, I enjoy <span className="italic">gaming</span>, <span className="italic">watching anime</span>, and <span className="italic">experimenting with Linux</span> on my home server, which runs <span className="font-bold">Ubuntu</span>. I also love <span className="italic">learning new skills</span> and recently started teaching myself to play the keyboard piano.
+          In my free time, I enjoy <span className="italic">gaming</span>, working on <span className="italic">personal projects</span>, and <span className="italic">experimenting with Linux</span> on my home server, which runs <span className="font-bold">Ubuntu</span>. I also love <span className="italic">learning new skills</span>.
         </p>
     </motion.section>
   )
