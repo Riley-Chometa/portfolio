@@ -58,7 +58,7 @@ export default function Intro() {
             initial={{ opacity: 0, y: 100 }}
             animate={{ opacity: 1, y: 0 }}
         >
-            <span className="font-bold">Hello, I&apos;m Riley!</span> I&apos;m a <span className="font-bold">full-stack developer</span> based in Canada with over <span className="font-bold">{getYearsExperience()} years</span> of experience. I&apos;m passionate about developing software, IT operations, automating processes, improving collaboration, and ensuring efficient deployment. I&apos;m currently looking for new opportunities, so feel free to <span className="underline">reach out</span> using the form below!
+            <span className="font-bold">Hello, I&apos;m Riley!</span> I&apos;m a <span className="font-bold">full-stack developer</span> based in Canada with over <span className="font-bold">{getYearsExperience()} years</span> of experience. I&apos;m passionate about developing software, IT operations, automating processes, improving collaboration, and ensuring efficient deployment. I&apos;m currently looking for new opportunities, so feel free to reach out using the form below!
         </motion.h1>
 
         <motion.div className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
